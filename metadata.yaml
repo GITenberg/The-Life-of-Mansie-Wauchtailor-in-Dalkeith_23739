@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9511
 description: History of the childhood, schooling and later life of a hardworking man,
   and of the prentices, councillors and provost.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23739#The-Life-of-Mansie-Wauchtailor-in-Dalkeith
 gutenberg_issued: '2007-12-05'
 gutenberg_type: Text
 identifiers:
