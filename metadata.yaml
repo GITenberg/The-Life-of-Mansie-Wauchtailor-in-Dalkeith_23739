@@ -1,0 +1,38 @@
+_repo: The-Life-of-Mansie-Wauchtailor-in-Dalkeith_23739
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hardie, Charles Martin
+    birthdate: 1858
+    deathdate: 1916
+    gutenberg_agent_id: '26219'
+    url: http://www.gutenberg.org/2009/agents/26219
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moir, D. M. (David Macbeth)
+    alias: Moir, David Macbeth
+    birthdate: 1798
+    deathdate: 1851
+    gutenberg_agent_id: '9511'
+    url: http://www.gutenberg.org/2009/agents/9511
+description: History of the childhood, schooling and later life of a hardworking man,
+  and of the prentices, councillors and provost.
+gutenberg_issued: '2007-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tailors -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Dalkeith (Scotland) -- Fiction'
+title: 'The Life of Mansie Wauch
+
+  tailor in Dalkeith'
+url: http://www.gutenberg.org/ebooks/23739
